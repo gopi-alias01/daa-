@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{
+    if (6<4){
+   std::cout <<  "true" <<std::endl;
+    }   
+  else{
+      std::cout <<  "false" <<std::endl;
+      
+    }  
+    
+}
